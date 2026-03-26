@@ -1,4 +1,4 @@
-# Glass Transition And Melting
+# Явление стеклования и плавления
 
 ![Демонстрация модели](./media/gif_glass.gif)
 
